@@ -24,11 +24,14 @@ You can click the Preview link to take a look at your changes.
   <a href="www.linkedin.com/in/monika-tiyyagura">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Monika-Tiyyagura&style=flat-square&color=blue" alt=""/>
+ 
   <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTRrbWhvMW9hbTBncHdwbW9xYmk2dnoxNGl3dDVpYWV1cXNzb2xkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://komarev.com/ghpvc/?username=Monika-Tiyyagura&color=FAC151&style=flat-square&color=blue" alt=""/>
+   
+   
+
 </h1>  
+
 </div>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m @Monika-Tiyyagura a Full Stack Developer, Welcome to my GitHub profile! Here, I'm on a journey to explore, create, and contribute to the exciting world of technology. .
  ---
