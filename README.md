@@ -50,8 +50,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Monika-Tiyyagura&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
+![](https://github-readme-stats.vercel.app/api?username=Monika-Tiyyagura&show_icons=true&theme=dark#gh-dark-mode-only&bg_color=00000000)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika-Tiyyagura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
