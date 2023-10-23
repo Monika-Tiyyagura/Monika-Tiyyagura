@@ -48,6 +48,9 @@
 
 ---
 
+<p align="center">
+Profile View Count
+</p>
 <div align="center">
   <h1>
     <img src="https://komarev.com/ghpvc/?username=Monika-Tiyyagura&color=FAC151&style=flat-square&color=blue" alt=""/>
