@@ -45,3 +45,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monika-Tiyyagura&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
+
+---
+
+<div align="center">
+  <h1>
+    <img src="https://komarev.com/ghpvc/?username=Monika-Tiyyagura&color=FAC151&style=flat-square&color=blue" alt=""/>
+  </h1>
+</div>
+
+
+
