@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">    
   </a>
 </div>
-
 <p align="center">
   Welcome to my GitHub profile! I'm on a journey to explore, create, and contribute to the exciting world of technology.
 </p>
