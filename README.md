@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="100">
 </div>
 <h1 align="center">Monika Tiyyagura</h1>
-
 <p align="center">
   Full Stack Developer
 </p>
