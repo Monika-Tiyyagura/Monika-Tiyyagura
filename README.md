@@ -14,7 +14,6 @@
 <p align="center">
   Welcome to my GitHub profile! I'm on a journey to explore, create, and contribute to the exciting world of technology.
 </p>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools
