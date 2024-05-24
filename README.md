@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="40" height="40">
 </p>
 
----
+----
 
 <div align="center">
   
